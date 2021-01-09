@@ -1,11 +1,12 @@
 {
-  "name": "demo",
+  "name": "dog-2",
   "version": "1.0.0",
-  "dependencies": {
-    "p5": "^1.1.9",
-    "serve": "11.3.2"
-  },
+  "description": "",
+  "main": "first.js",
   "scripts": {
-    "run": "serve public"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
