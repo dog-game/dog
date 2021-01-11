@@ -1,0 +1,12 @@
+version: "3"
+services:
+  client:
+    build:
+      context: .
+    ports:
+      - "5000:5000"
+
+    stdin_open: true
+    volumes:
+      - .:/app
+      - /app/node_modules

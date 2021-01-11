@@ -1,9 +1,8 @@
 {
-  "name": "demo",
+  "name": "final1",
   "version": "1.0.0",
   "dependencies": {
-    "p5": "^1.1.9",
-    "serve": "11.3.2"
+    "serve": "^11.3.2"
   },
   "scripts": {
     "run": "serve public"
